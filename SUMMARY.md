@@ -16,5 +16,5 @@
     * [Recursion](home/final/recursion.md)
     * [Pointers](home/final/pointers.md)
   * [Final Question Solve](home/final-question-solve/README.md)
-    * [Page 3](home/final-question-solve/page-3.md)
+    * [Fall-2023/ Set-A](home/final-question-solve/fall-2023-set-a.md)
     * [Page 4](home/final-question-solve/page-4.md)
