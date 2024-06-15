@@ -4,12 +4,6 @@ Welcome to the comprehensive guide for solving C programming problems, tailored 
 
 **Ready to dive in? Choose a section to begin your journey:**
 
-* [Mid-Term Preparation](home/mid/)
-* [Final-Term Preparation](home/final/)
-* [Final Question Solutions](home/final-question-solve/)
-
-Happy coding, and best of luck with your SPL course!
-
 {% content-ref url="home/mid/" %}
 [mid](home/mid/)
 {% endcontent-ref %}
@@ -22,3 +16,4 @@ Happy coding, and best of luck with your SPL course!
 [final-question-solve](home/final-question-solve/)
 {% endcontent-ref %}
 
+Happy coding, and best of luck with your SPL course!

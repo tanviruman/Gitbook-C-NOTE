@@ -18,3 +18,6 @@
 [loop.md](loop.md)
 {% endcontent-ref %}
 
+{% content-ref url="1-d-array.md" %}
+[1-d-array.md](1-d-array.md)
+{% endcontent-ref %}
