@@ -17,3 +17,5 @@ Welcome to the comprehensive guide for solving C programming problems, tailored 
 {% endcontent-ref %}
 
 Happy coding, and best of luck with your SPL course!
+
+_Credit:_ [_Mr. Md. Shafqat Talukder_](https://cse.uiu.ac.bd/faculty/talukder-md-shafqat/) _Sir ,_[_Tanvir Ahmed_](https://www.linkedin.com/in/tanvirumaan)_,Google_
