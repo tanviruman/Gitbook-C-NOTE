@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Basic Introductory](README.md)
-* [Operator](operator.md)
-* [Conditions](conditions.md)
-* [Loop](loop.md)
+* [MID](README.md)
+  * [Basic Introductory](mid/basic-introductory.md)
+  * [Operator](mid/operator.md)
+  * [Conditions](mid/conditions.md)
+  * [Loop](mid/loop.md)
