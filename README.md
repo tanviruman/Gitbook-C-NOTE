@@ -1,18 +1,14 @@
-# MID
+# HOME
 
-{% content-ref url="mid/basic-introductory.md" %}
-[basic-introductory.md](mid/basic-introductory.md)
+{% content-ref url="home/mid/" %}
+[mid](home/mid/)
 {% endcontent-ref %}
 
-{% content-ref url="mid/operator.md" %}
-[operator.md](mid/operator.md)
+{% content-ref url="home/final/" %}
+[final](home/final/)
 {% endcontent-ref %}
 
-{% content-ref url="mid/conditions.md" %}
-[conditions.md](mid/conditions.md)
-{% endcontent-ref %}
-
-{% content-ref url="mid/loop.md" %}
-[loop.md](mid/loop.md)
+{% content-ref url="home/final-question-solve/" %}
+[final-question-solve](home/final-question-solve/)
 {% endcontent-ref %}
 
