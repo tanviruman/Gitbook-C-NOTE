@@ -17,4 +17,4 @@
     * [Pointers](home/final/pointers.md)
   * [Final Question Solve](home/final-question-solve/README.md)
     * [Fall-2023/ Set-A](home/final-question-solve/fall-2023-set-a.md)
-    * [Page 4](home/final-question-solve/page-4.md)
+    * [Fall-2023/ Set-B](home/final-question-solve/fall-2023-set-b.md)
